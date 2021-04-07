@@ -1,4 +1,4 @@
-public class ConLosAñosQueMeQuedan {
+public class ConLosAnosQueMeQuedan {
     public static void main (String[] args) {
         String oportunidad = "Se que aun me queda una oportunidad \nSe que aun no es tarde para recapacitar \n" +
                 "Se que nuestro amor es verdadero";
