@@ -43,8 +43,5 @@ public class Kokomo {
         System.out.println(kokomoWay);
         System.out.println();
         System.out.println(aruba);
-
-
-
     }
 }
