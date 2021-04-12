@@ -21,5 +21,4 @@ public class AroundTheWorld {
 			System.out.println(around);
 		}
 	}
-
 }
